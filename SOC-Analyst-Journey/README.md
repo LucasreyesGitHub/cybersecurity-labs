@@ -42,9 +42,15 @@ Este repositorio **no** está enfocado en pentesting ofensivo, sino en **detecci
 soc-analyst-journey/
 │
 ├── 00-setup/              # Instalación y configuración del entorno
+
 ├── 01-fundamentals/       # Linux, redes, logs, conceptos base
+
 ├── 02-soc-junior/         # SIEM, alertas, triage, MITRE
+
 ├── 03-soc-semi-senior/    # Threat hunting, detecciones, correlación
+
 ├── 04-soc-senior/         # Arquitectura, métricas, estrategia SOC
+
 ├── labs/                  # Laboratorios prácticos
+
 └── notes/                 # Comandos, glosario y apuntes generales
